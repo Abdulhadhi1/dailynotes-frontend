@@ -7,34 +7,4 @@
 User can signup and login into this app and can create notes, edit notes, edit profiles and can search for the particular notes.</p>
 
 
-#### Screenshots 
-
-**Landing page**
-
-<img src="https://github.com/Monishadhanasekar/daily_notes-frontend/blob/main/screenshots/Landing.png" title="Landing page">
-
-**Signup page**
-
-<img src="https://github.com/Monishadhanasekar/daily_notes-frontend/blob/main/screenshots/register.png" title="Signup page"> 
-
-**Login page** 
-
-<img src="https://github.com/Monishadhanasekar/daily_notes-frontend/blob/main/screenshots/login.png" title="Login page">
-
-**Create Notes page**
-
-<img src="https://github.com/Monishadhanasekar/daily_notes-frontend/blob/main/screenshots/createnote.png" title="Create notes page">
-
-**Notes list page**
-
-<img src="https://github.com/Monishadhanasekar/daily_notes-frontend/blob/main/screenshots/notes.png" title="Notes list page">
-
-**Edit notes page**
-
-<img src="https://github.com/Monishadhanasekar/daily_notes-frontend/blob/main/screenshots/editnote.png" title="Edit notes page">
-
-**Edit profile page**
-
-<img src="https://github.com/Monishadhanasekar/daily_notes-frontend/blob/main/screenshots/editprofile.png" title="Edit profile page">
-
 
